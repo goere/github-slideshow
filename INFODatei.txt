@@ -1,0 +1,6 @@
+C:\Users\SMS>cd <Name Rep>				//in mein Ordner/Repository wechseln
+
+C:\Users\SMS>\<Name Rep>git branch <Name Branch>			//ein Branch erstellen
+C:\Users\SMS>\<Name Rep>git push --set-upstream origin <Name Branch>
+....
+C:\Users\SMS>\<Name Rep>\<Name Branch>
